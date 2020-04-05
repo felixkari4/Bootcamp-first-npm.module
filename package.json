@@ -1,0 +1,25 @@
+{
+  "name": "bootcamp-first-npm.module",
+  "version": "0.1.0",
+  "description": "this package allows for a dynamic footer to be generated for js applicatinon with an updated year and name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/felixkari4/Bootcamp-first-npm.module.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Felix Karikari <Fkarikari4@gmail.com> (https://www.npmjs.com/~felix-karikari)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felixkari4/Bootcamp-first-npm.module/issues"
+  },
+  "homepage": "https://github.com/felixkari4/Bootcamp-first-npm.module#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
